@@ -105,7 +105,7 @@ Soy Edison, estudiante de desarrollo Full Stack apasionado por la programación,
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-edyl.dev%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edyl.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-edyl.dev%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edison7d@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-edison32wlq-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edison32wlq)
 
 <img src="https://komarev.com/ghpvc/?username=edison32wlq&style=for-the-badge&color=38BDF8" alt="Profile Views" />
