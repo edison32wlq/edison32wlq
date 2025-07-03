@@ -67,7 +67,12 @@ Soy Edison, estudiante de desarrollo Full Stack apasionado por la programación,
 </table>
 
 </div>
+--
 
+## 📜 Certificaciones
+
+- [Desarrollo Frontend – Acreditta](https://www.acreditta.com/credential/b1e342e0-14fd-45b1-be70-3c5aec328a03?utm_source=copy&resource_type=badge&resource=b1e342e0-14fd-45b1-be70-3c5aec328a03)  
+  Emitido por Acreditta · [Ver credencial](https://www.acreditta.com/credential/b1e342e0-14fd-45b1-be70-3c5aec328a03)
 
 ---
 
