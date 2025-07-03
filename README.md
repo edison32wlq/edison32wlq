@@ -55,10 +55,19 @@ Soy Edison, estudiante de desarrollo Full Stack apasionado por la programación,
       <img src="https://img.shields.io/badge/Odoo-8722C7?style=for-the-badge&logo=odoo&logoColor=white" height="28" />
       <br>Odoo
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" />
+      <br>SQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" />
+      <br>PostgreSQL
+    </td>
   </tr>
 </table>
 
 </div>
+
 
 ---
 
@@ -105,7 +114,7 @@ Soy Edison, estudiante de desarrollo Full Stack apasionado por la programación,
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-edyl.dev%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edison7d@gmail.com)
+[![Email](https://img.shields.io/badge/Email-edison7d%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edison7d@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-edison32wlq-38BDF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edison32wlq)
 
 <img src="https://komarev.com/ghpvc/?username=edison32wlq&style=for-the-badge&color=38BDF8" alt="Profile Views" />
