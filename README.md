@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&width=600&lines=Full+Stack+Developer+in+Training;Learning+React%2C+Django+and+Odoo;Building+cool+projects+with+code)](https://git.io/typing-svg)
 
-<img src="https://media.tenor.com/IyKZrxP1uX4AAAAM/tainy.gif" width="260" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJscG90c2xzMDJvY242MjhkdG85MWV1Ymt5ZmExZjBnYXdmaGdiaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="260" />
 
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Work-38BDF8?style=for-the-badge&logo=opencollective&logoColor=white)](https://github.com/edison32wlq)
 [![Location](https://img.shields.io/badge/Location-Ecuador-FB7185?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Ecuador)
