@@ -9,7 +9,7 @@
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Work-38BDF8?style=for-the-badge&logo=opencollective&logoColor=white)](https://github.com/edison32wlq)
 [![Location](https://img.shields.io/badge/Location-Ecuador-FB7185?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Ecuador)
 
-> *"Aprendiendo cada día, creando soluciones con pasión."*
+> *“Conectando ideas de distintos mundos, para crear nuevas formas de ver el mismo.”*
 
 </div>
 
