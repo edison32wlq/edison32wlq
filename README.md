@@ -78,31 +78,6 @@ Soy Edison, estudiante de desarrollo Full Stack apasionado por la programación,
 
 ## 🚀 Proyectos destacados
 
-### 🎮 Juego pixel art en Python
-> Juego medieval 2D con exploración y banda sonora personalizada. En desarrollo con Pygame.
-
-🔗 [Ver proyecto](https://github.com/edison32wlq/juego-medieval)
-
----
-
-### 📦 Banco en consola (Python)
-> Proyecto con POO y sistema de usuarios, transacciones y autenticación.
-
-🔗 [Ver proyecto](https://github.com/edison32wlq/banco-consola)
-
----
-
-### 🌐 Sistema web con Django
-> Web App conectada a base de datos PostgreSQL para gestión de usuarios.
-
-🔗 [Ver proyecto](https://github.com/edison32wlq/sistema-django)
-
----
-
-### 🛠 Módulos personalizados en Odoo
-> Desarrollo de vistas, modelos y roles para una cooperativa financiera.
-
-🔗 [Ver proyecto](https://github.com/edison32wlq/modulo-odoo-cooperativa)
 
 ---
 
