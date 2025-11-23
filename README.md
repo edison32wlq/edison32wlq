@@ -52,10 +52,6 @@ Soy Edison, estudiante de desarrollo Full Stack apasionado por la programación,
       <br>Django
     </td>
     <td align="center" width="90">
-      <img src="https://img.shields.io/badge/Odoo-8722C7?style=for-the-badge&logo=odoo&logoColor=white" height="28" />
-      <br>Odoo
-    </td>
-    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mysql" width="48" />
       <br>SQL
     </td>
